@@ -9,7 +9,7 @@
 	"DocsURL": "https://bansh.gitbook.io/banshads",
 	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/63ec0d8268bf45d59c3fa1648c56ddc6",
 	"SupportURL": "https://bansh.gitbook.io/banshads",
-	"EngineVersion": "5.4.0",
+	"EngineVersion": "5.5.0",
 	"CanContainContent": false,
 	"Installed": true,
 	"SupportedTargetPlatforms": [
